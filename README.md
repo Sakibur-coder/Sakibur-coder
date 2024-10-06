@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Sakibur Rahman(Sakib)</h1>
 <h3 align="center">Frontend web developer | Content Creator </h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Code Wars</h4>
+<h4 align="center">Student Of Hablu programmer</h4>
 
 <div align="center">
 
@@ -20,13 +20,13 @@ Skills: C / C++ / Java / BOOTSTRAP /Tailwind / REACT / JS / HTML / CSS
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sakibur-coder](https://github.com/sakibur-coder)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/]
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
 - 📫 How to reach me **programmerharun@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📄 All About Me:[https://lnk.bio/tutul181]
 
 <h3 align="left">Connect with me:</h3>
 
@@ -95,8 +95,6 @@ Skills: C / C++ / Java / BOOTSTRAP /Tailwind / REACT / JS / HTML / CSS
   <br/>
 </a>
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakibur-coder&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
 <br/>
 
 <br/>
@@ -105,13 +103,13 @@ Skills: C / C++ / Java / BOOTSTRAP /Tailwind / REACT / JS / HTML / CSS
 
 <div align="center">
 <br/>
-<a href="https://twitter.com/tutul181" target="_blank">
+<a href="">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 <a href="https://www.linkedin.com/in/sakibur-coder/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.facebook.com/tutul181" target="_blank">
+<a href="">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>
