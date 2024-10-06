@@ -2,15 +2,15 @@
 
 ![I am sakibur-coder](https://github.com/sakibur-coder/sakibur-coder/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm Sakibur Rahman(Tutul)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
+<h1 align="center">Hi 👋, I'm Sakibur Rahman(Sakib)</h1>
+<h3 align="center">Frontend web developer | Content Creator </h3>
 <h4 align="center">Co-founder & Chief Operating Officer at Code Wars</h4>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=sakibur-coder&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: C / C++ / Java / BOOTSTRAP /Tailwind / REACT / JS / HTML / CSS
 
 </div>
 
